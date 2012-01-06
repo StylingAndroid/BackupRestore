@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BackupRestore</string>
+    <string name="backup_button">Backup</string>
+    <string name="restore_button">Restore</string>
+
+</resources>
